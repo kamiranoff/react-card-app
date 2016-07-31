@@ -1,0 +1,6 @@
+export const actionTypes = {
+  ADD_CARD:'ADD_CARD',
+  ADD_DECK:'ADD_DECK',
+  SHOW_ADD_DECK:'SHOW_ADD_DECK',
+  HIDE_ADD_DECK:'HIDE_ADD_DECK'
+};
